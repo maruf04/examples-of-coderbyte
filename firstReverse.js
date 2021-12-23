@@ -10,3 +10,4 @@ function FirstReverse(str) {
 }
 // keep this function call here
 console.log(FirstReverse(readline()));
+
