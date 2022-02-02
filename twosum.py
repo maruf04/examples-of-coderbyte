@@ -1,6 +1,6 @@
 #coderbyte 0 puan dondu
 def TwoSum(arr):
-      top=[];
+  top=[];
   i=0
   while(i<len(arr)):
     j=i+1
@@ -14,4 +14,4 @@ def TwoSum(arr):
   return top
 
 # keep this function call here 
-print TwoSum(raw_input())
+print(TwoSum(raw_input()))
