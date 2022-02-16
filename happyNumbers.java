@@ -8,7 +8,8 @@
 // Input: 101
 // Output: false
 
-//5 puan alındı bundan
+//5 puan alındı bundan 10 üzerinden
+
 
 import java.util.*;
 import java.io.*;

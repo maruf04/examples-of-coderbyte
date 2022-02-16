@@ -9,6 +9,7 @@
 #  Output: false
 
 # 5 puan alındı bundan big-O ile ilgili bir şeyler eksik var
+# basic
 
 
 def HappyNumbers(num):
